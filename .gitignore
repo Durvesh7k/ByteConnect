@@ -1,0 +1,22 @@
+# Ignore the virtual environment
+env/
+venv/
+*.env
+
+# Ignore database files (SQLite by default)
+db.sqlite3
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore media files (if applicable)
+media/
+
+# Ignore Django migrations (optional, but useful for larger projects)
+migrations/
+
+# Ignore any editor files (e.g., from VS Code, Sublime Text, etc.)
+.vscode/
+.idea/
