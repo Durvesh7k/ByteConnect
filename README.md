@@ -53,18 +53,21 @@ Make sure you have the following installed:
 ## Screenshots
 
 ### Dashboard
+![Dashboard](https://github.com/user-attachments/assets/ef69337b-6330-411a-9aab-313598c49de8)
 
-![Dashboard](path-to-image/dashboard.png)
 
 ### Room Creation
-
-![Create Room](path-to-image/create-room.png)
+![Screenshot 2024-11-12 162145](https://github.com/user-attachments/assets/d40544f3-a1f8-4d92-91d4-46d3422deb98)
 
 ### Chat Interface
+![Screenshot 2024-11-12 160909](https://github.com/user-attachments/assets/2cdf22d1-5b86-4602-9fed-f20a0dfe9bf1)
 
-![Chat Interface](path-to-image/chat-interface.png)
+### Profile Page
+![Screenshot 2024-11-12 161608](https://github.com/user-attachments/assets/ff2101e5-2353-4482-a96b-9fa396a76988)
 
-(Replace `path-to-image/...` with the actual path to your images.)
+### Admin Panel
+![Screenshot 2024-11-12 162016](https://github.com/user-attachments/assets/655a0219-e7f9-40de-a229-27b372c15699)
+
 
 ## Future Enhancements
 
@@ -72,7 +75,6 @@ Make sure you have the following installed:
 - **Email Notifications**: When a user follows a room, they will receive email notifications for new messages.
 - **User Authentication**: Implement user sign-up and login functionality to personalize experience and manage followed rooms.
 - **File Sharing**: Option to upload files or images in the chat.
-- **Admin Dashboard**: An admin interface to manage rooms and monitor activity.
 
 ## Contributing
 
@@ -81,7 +83,3 @@ We welcome contributions! Please fork the repository, create a new branch, and s
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-This version now includes placeholders for the "Follow" functionality and email notifications when new messages are posted in rooms that the user is following. Feel free to adjust the details according to your actual implementation.
