@@ -30,8 +30,8 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dev-chat-platform.git
-   cd dev-chat-platform
+   git clone https://github.com/your-username/ByteConnect.git
+   cd ByteConnect
    ```
 
 2. Install the dependencies:
