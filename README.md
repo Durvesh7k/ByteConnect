@@ -7,8 +7,7 @@ Welcome to the **ByteConnect**! This platform allows developers to create rooms 
 
 - **Create Rooms**: Developers can create rooms dedicated to specific topics.
 - **Join Rooms**: Users can join existing rooms to participate in conversations.
-- **Send Messages**: Users can send and receive messages within the rooms.
-- **Follow Rooms**: Users can follow rooms to receive updates on new messages.
+- **Send Messages**: Users can send messages within the rooms.
 
 ## Tech Stack
 
